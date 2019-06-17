@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to presentation boilterplate by Chetan Sachdev 👋</h1>
+<h1 align="center">Excel to QuML 👋</h1>
 <p>
   <img src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/cksachdev">
@@ -6,9 +6,9 @@
   </a>
 </p>
 
-> Slides for how to create presentation slides using mdx-deck and code-surfer. Written in mdx!
+> Solution for creating QuML Contents!
 
-> #### Preview: https://cksachdev.github.io/presentation-boilerplate/
+> #### Preview: https://cksachdev.github.io/presentation-quml/
 
 ## Install
 ```
@@ -36,4 +36,4 @@ npm run start
 Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_Made with ❤️_
